@@ -54,8 +54,8 @@ A simple Linux-based toolkit to **log**, **monitor**, and **visualize battery pe
 ### 📥 Clone the Repo
 
 ```bash
-git clone https://github.com/sanjitvk8/battery-logger-visualizer.git
-cd battery-logger-visualizer
+git clone https://github.com/sanjitvk8/Battery_Plot.git
+cd Battery_Plot/
 ````
 
 ---
@@ -86,8 +86,8 @@ python3 battery_logger_graphify.py
 ### OR: Visualize Using Gnuplot (PNG Output)
 
 ```bash
-chmod +x batter_health_graph_plotter.sh
-./batter_health_graph_plotter.sh
+chmod +x battery_health_graph_plotter.sh
+./battery_health_graph_plotter.sh
 ```
 
 > 🖼️ Outputs `battery_plot.png` with battery trend graph.
@@ -105,7 +105,7 @@ chmod +x batter_health_graph_plotter.sh
 
 ## 📷 Sample Output (Gnuplot)
 
-![Battery Plot](https://chatgpt.com/c/battery_plot.png)
+![Battery Plot](https://imgur.com/a/Ke2Fqwb)
 
 ---
 
