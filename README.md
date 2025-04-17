@@ -105,7 +105,7 @@ chmod +x battery_health_graph_plotter.sh
 
 ## 📷 Sample Output (Gnuplot)
 
-![Battery Plot](https://imgur.com/a/Ke2Fqwb)
+![Battery Plot](battery_plot.png)
 
 ---
 
